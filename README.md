@@ -1,0 +1,2 @@
+# laravel_inertia
+nil
